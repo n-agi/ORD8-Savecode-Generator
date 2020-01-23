@@ -1,5 +1,5 @@
-userid = "meumeu"
-savetime = 5
+userid = "Khang"
+savetime = 99
 A=0
 be = ["" for x in xrange(0, 5)]
 Re = [0 for x in xrange(0, 5)]
